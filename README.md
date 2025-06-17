@@ -88,8 +88,7 @@ Several models were trained and tested:
 
 Logistic Regression performance on test set:
 
-![Confusion Matrix](![image](https://github.com/user-attachments/assets/f342cd7d-f6a5-4d0e-b232-b46e21f52ad3)
-)
+![Confusion Matrix](![image](https://github.com/user-attachments/assets/f342cd7d-f6a5-4d0e-b232-b46e21f52ad3))
 
 ---
 
@@ -97,7 +96,7 @@ Logistic Regression performance on test set:
 
 ```bash
 streamlit run loan_approval_app.py
-
+```
 ![Screenshot 2025-06-17 163052](https://github.com/user-attachments/assets/38c4e72b-fdc8-4dd0-b3f4-a48bcaf05fcd)
 ![Screenshot 2025-06-17 163151](https://github.com/user-attachments/assets/b7434216-9137-46d3-a50e-8f310085543e)
 
