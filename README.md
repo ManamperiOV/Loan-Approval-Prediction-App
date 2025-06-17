@@ -85,7 +85,7 @@ Several models were trained and tested:
 
 Logistic Regression performance on test set:
 
-![Confusion Matrix] ![output](https://github.com/user-attachments/assets/7140485b-e8e2-4b65-a9c7-699284a06adc)
+![output](https://github.com/user-attachments/assets/7140485b-e8e2-4b65-a9c7-699284a06adc)
 
 
 ---
