@@ -22,7 +22,7 @@ Given information about a loan applicant (e.g., income, education, employment st
 
 ## 📊 Dataset
 
-- **Source**: [Loan Prediction Dataset]([https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset?resource=download))
+- **Source**: https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset?resource=download
 - **Rows**: 614  
 - **Target Variable**: `Loan_Status` (1 = Approved, 0 = Not Approved)
 
@@ -53,9 +53,6 @@ Several models were trained and tested:
 | Random Forest           | 0.75  
 
 > Confusion matrix showed Logistic Regression had the best balanced performance.
-
----
-
 
 ---
 
